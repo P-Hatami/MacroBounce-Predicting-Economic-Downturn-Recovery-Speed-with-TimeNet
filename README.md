@@ -35,3 +35,5 @@ To prevent data leakage, we evaluated on **42 completely unseen countries** (223
 ## 5. Limitations & Next Steps
 * **Limitations:** Annual WDI data misses intra-year shocks; smaller economies have missing historical series; exogenous shocks (pandemics, conflicts) cannot be predicted from prior macro data alone.
 * **Next Steps:** Expand to quarterly/monthly IMF & central bank series and fine-tune an OpenTSLM soft-prompt checkpoint end-to-end on `MacroBounce_WDI_Recovery`.
+<img width="828" height="458" alt="download (11)" src="https://github.com/user-attachments/assets/41aef961-219f-415f-bb96-54da9d4d244b" />
+<img width="1378" height="462" alt="download (12)" src="https://github.com/user-attachments/assets/3be11d0c-c3b8-48f7-9d3d-a4a86889d5a8" />
